@@ -22,5 +22,5 @@ owner of vending machine collects funds and also restocks the vending machine.
     - getBalance -> balance of the vending machine.
         getting total balance easily.
 
-3. gas fee
+3. gas fee:
     - each transaction in ethereum uses a certain amount of gas
