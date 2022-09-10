@@ -1,6 +1,6 @@
-building a donut vending machine smart contracr.
+building a donut vending machine smart contract.
 
-we are going to see how to deal with sending and reveiving ether to the 
+we are going to see how to deal with sending and receiving ether to the 
 smart contract.
 
 we put money in and get something. simple financial transaction.
